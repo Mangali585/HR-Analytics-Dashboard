@@ -11,7 +11,7 @@ The dashboard was developed entirely in **Microsoft Excel** using Pivot Tables, 
 ## 📊 Dashboard Preview
 
 ![HR Analytics Dashboard](dashboardHR.png)
-
+![HR Analytics Dashboard](dashboardHR2.png)
 ---
 
 ## 🎯 Project Objectives
