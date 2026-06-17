@@ -10,8 +10,6 @@ The dashboard was developed entirely in **Microsoft Excel** using Pivot Tables, 
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here
-
 ![HR Analytics Dashboard](dashboardHR.png)
 
 ---
