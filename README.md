@@ -1,5 +1,4 @@
 # HR-Analytics-Dashboard
-# HR Analytics Dashboard
 
 ## 📌 Project Overview
 
@@ -13,7 +12,7 @@ The dashboard was developed entirely in **Microsoft Excel** using Pivot Tables, 
 
 > Add your dashboard screenshot here
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](dashboardHR.png)
 
 ---
 
